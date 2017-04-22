@@ -1,1 +1,5 @@
-*** GITHUB: This is my first line ****
+1) *** GITHUB: This is my first line ****
+2) --- Local line --------
+3) --- Another Local Line ---
+
+
