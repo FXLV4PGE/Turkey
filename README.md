@@ -6,3 +6,5 @@ This is my forth line.   Hello America!
 ************************************************
 This line has been entered via remote Github.
 ************************************************
+This is another line entered via remote Github.
+************************************************
